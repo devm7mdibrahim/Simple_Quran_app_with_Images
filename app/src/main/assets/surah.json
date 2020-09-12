@@ -1,0 +1,916 @@
+{
+  "data": [
+    {
+      "number": 1,
+      "name": "سورة الفاتحة",
+      "englishName": "Al-Faatiha",
+      "page": 1,
+      "numberOfAyahs": 7,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 2,
+      "name": "سورة البقرة",
+      "englishName": "Al-Baqara",
+      "page": 2,
+      "numberOfAyahs": 286,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 3,
+      "name": "سورة آل عمران",
+      "englishName": "Aal-i-Imraan",
+      "page": 50,
+      "numberOfAyahs": 200,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 4,
+      "name": "سورة النساء",
+      "englishName": "An-Nisaa",
+      "page": 77,
+      "numberOfAyahs": 176,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 5,
+      "name": "سورة المائدة",
+      "englishName": "Al-Maaida",
+      "page": 106,
+      "numberOfAyahs": 120,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 6,
+      "name": "سورة الأنعام",
+      "englishName": "Al-An'aam",
+      "page": 128,
+      "numberOfAyahs": 165,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 7,
+      "name": "سورة الأعراف",
+      "englishName": "Al-A'raaf",
+      "page": 151,
+      "numberOfAyahs": 206,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 8,
+      "name": "سورة الأنفال",
+      "englishName": "Al-Anfaal",
+      "page": 177,
+      "numberOfAyahs": 75,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 9,
+      "name": "سورة التوبة",
+      "englishName": "At-Tawba",
+      "page": 187,
+      "numberOfAyahs": 129,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 10,
+      "name": "سورة يونس",
+      "englishName": "Yunus",
+      "page": 208,
+      "numberOfAyahs": 109,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 11,
+      "name": "سورة هود",
+      "englishName": "Hud",
+      "page": 221,
+      "numberOfAyahs": 123,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 12,
+      "name": "سورة يوسف",
+      "englishName": "Yusuf",
+      "page": 235,
+      "numberOfAyahs": 111,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 13,
+      "name": "سورة الرعد",
+      "englishName": "Ar-Ra'd",
+      "page": 249,
+      "numberOfAyahs": 43,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 14,
+      "name": "سورة ابراهيم",
+      "englishName": "Ibrahim",
+      "page": 255,
+      "numberOfAyahs": 52,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 15,
+      "name": "سورة الحجر",
+      "englishName": "Al-Hijr",
+      "page": 262,
+      "numberOfAyahs": 99,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 16,
+      "name": "سورة النحل",
+      "englishName": "An-Nahl",
+      "page": 267,
+      "numberOfAyahs": 128,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 17,
+      "name": "سورة الإسراء",
+      "englishName": "Al-Israa",
+      "page": 282,
+      "numberOfAyahs": 111,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 18,
+      "name": "سورة الكهف",
+      "englishName": "Al-Kahf",
+      "page": 293,
+      "numberOfAyahs": 110,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 19,
+      "name": "سورة مريم",
+      "englishName": "Maryam",
+      "page": 305,
+      "numberOfAyahs": 98,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 20,
+      "name": "سورة طه",
+      "englishName": "Taa-Haa",
+      "page": 312,
+      "numberOfAyahs": 135,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 21,
+      "name": "سورة الأنبياء",
+      "englishName": "Al-Anbiyaa",
+      "page": 322,
+      "numberOfAyahs": 112,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 22,
+      "name": "سورة الحج",
+      "englishName": "Al-Hajj",
+      "page": 332,
+      "numberOfAyahs": 78,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 23,
+      "name": "سورة المؤمنون",
+      "englishName": "Al-Muminoon",
+      "page": 342,
+      "numberOfAyahs": 118,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 24,
+      "name": "سورة النور",
+      "englishName": "An-Noor",
+      "page": 350,
+      "numberOfAyahs": 64,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 25,
+      "name": "سورة الفرقان",
+      "englishName": "Al-Furqaan",
+      "page": 359,
+      "numberOfAyahs": 77,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 26,
+      "name": "سورة الشعراء",
+      "englishName": "Ash-Shu'araa",
+      "page": 367,
+      "numberOfAyahs": 227,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 27,
+      "name": "سورة النمل",
+      "englishName": "An-Naml",
+      "page": 377,
+      "numberOfAyahs": 93,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 28,
+      "name": "سورة القصص",
+      "englishName": "Al-Qasas",
+      "page": 385,
+      "numberOfAyahs": 88,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 29,
+      "name": "سورة العنكبوت",
+      "englishName": "Al-Ankaboot",
+      "page": 396,
+      "numberOfAyahs": 69,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 30,
+      "name": "سورة الروم",
+      "englishName": "Ar-Room",
+      "page": 404,
+      "numberOfAyahs": 60,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 31,
+      "name": "سورة لقمان",
+      "englishName": "Luqman",
+      "page": 411,
+      "numberOfAyahs": 34,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 32,
+      "name": "سورة السجدة",
+      "englishName": "As-Sajda",
+      "page": 415,
+      "numberOfAyahs": 30,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 33,
+      "name": "سورة الأحزاب",
+      "englishName": "Al-Ahzaab",
+      "page": 418,
+      "numberOfAyahs": 73,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 34,
+      "name": "سورة سبأ",
+      "englishName": "Saba",
+      "page": 428,
+      "numberOfAyahs": 54,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 35,
+      "name": "سورة فاطر",
+      "englishName": "Faatir",
+      "page": 434,
+      "numberOfAyahs": 45,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 36,
+      "name": "سورة يس",
+      "englishName": "Yaseen",
+      "page": 440,
+      "numberOfAyahs": 83,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 37,
+      "name": "سورة الصافات",
+      "englishName": "As-Saaffaat",
+      "page": 446,
+      "numberOfAyahs": 182,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 38,
+      "name": "سورة ص",
+      "englishName": "Saad",
+      "page": 453,
+      "numberOfAyahs": 88,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 39,
+      "name": "سورة الزمر",
+      "englishName": "Az-Zumar",
+      "page": 458,
+      "numberOfAyahs": 75,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 40,
+      "name": "سورة غافر",
+      "englishName": "Ghafir",
+      "page": 467,
+      "numberOfAyahs": 85,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 41,
+      "name": "سورة فصلت",
+      "englishName": "Fussilat",
+      "page": 477,
+      "numberOfAyahs": 54,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 42,
+      "name": "سورة الشورى",
+      "englishName": "Ash-Shura",
+      "page": 483,
+      "numberOfAyahs": 53,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 43,
+      "name": "سورة الزخرف",
+      "englishName": "Az-Zukhruf",
+      "page": 489,
+      "numberOfAyahs": 89,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 44,
+      "name": "سورة الدخان",
+      "englishName": "Ad-Dukhaan",
+      "page": 496,
+      "numberOfAyahs": 59,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 45,
+      "name": "سورة الجاثية",
+      "englishName": "Al-Jaathiya",
+      "page": 499,
+      "numberOfAyahs": 37,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 46,
+      "name": "سورة الأحقاف",
+      "englishName": "Al-Ahqaf",
+      "page": 502,
+      "numberOfAyahs": 35,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 47,
+      "name": "سورة محمد",
+      "englishName": "Muhammad",
+      "page": 507,
+      "numberOfAyahs": 38,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 48,
+      "name": "سورة الفتح",
+      "englishName": "Al-Fath",
+      "page": 511,
+      "numberOfAyahs": 29,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 49,
+      "name": "سورة الحجرات",
+      "englishName": "Al-Hujuraat",
+      "page": 515,
+      "numberOfAyahs": 18,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 50,
+      "name": "سورة ق",
+      "englishName": "Qaaf",
+      "page": 518,
+      "numberOfAyahs": 45,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 51,
+      "name": "سورة الذاريات",
+      "englishName": "Adh-Dhaariyat",
+      "page": 520,
+      "numberOfAyahs": 60,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 52,
+      "name": "سورة الطور",
+      "englishName": "At-Tur",
+      "page": 523,
+      "numberOfAyahs": 49,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 53,
+      "name": "سورة النجم",
+      "englishName": "An-Najm",
+      "page": 526,
+      "numberOfAyahs": 62,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 54,
+      "name": "سورة القمر",
+      "englishName": "Al-Qamar",
+      "page": 528,
+      "numberOfAyahs": 55,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 55,
+      "name": "سورة الرحمن",
+      "englishName": "Ar-Rahmaan",
+      "page": 531,
+      "numberOfAyahs": 78,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 56,
+      "name": "سورة الواقعة",
+      "englishName": "Al-Waaqia",
+      "page": 534,
+      "numberOfAyahs": 96,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 57,
+      "name": "سورة الحديد",
+      "englishName": "Al-Hadid",
+      "page": 537,
+      "numberOfAyahs": 29,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 58,
+      "name": "سورة المجادلة",
+      "englishName": "Al-Mujaadila",
+      "page": 542,
+      "numberOfAyahs": 22,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 59,
+      "name": "سورة الحشر",
+      "englishName": "Al-Hashr",
+      "page": 545,
+      "numberOfAyahs": 24,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 60,
+      "name": "سورة الممتحنة",
+      "englishName": "Al-Mumtahana",
+      "page": 549,
+      "numberOfAyahs": 13,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 61,
+      "name": "سورة الصف",
+      "englishName": "As-Saff",
+      "page": 551,
+      "numberOfAyahs": 14,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 62,
+      "name": "سورة الجمعة",
+      "englishName": "Al-Jumu'a",
+      "page": 553,
+      "numberOfAyahs": 11,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 63,
+      "name": "سورة المنافقون",
+      "englishName": "Al-Munaafiqoon",
+      "page": 554,
+      "numberOfAyahs": 11,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 64,
+      "name": "سورة التغابن",
+      "englishName": "At-Taghaabun",
+      "page": 556,
+      "numberOfAyahs": 18,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 65,
+      "name": "سورة الطلاق",
+      "englishName": "At-Talaaq",
+      "page": 558,
+      "numberOfAyahs": 12,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 66,
+      "name": "سورة التحريم",
+      "englishName": "At-Tahrim",
+      "page": 560,
+      "numberOfAyahs": 12,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 67,
+      "name": "سورة الملك",
+      "englishName": "Al-Mulk",
+      "page": 562,
+      "numberOfAyahs": 30,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 68,
+      "name": "سورة القلم",
+      "englishName": "Al-Qalam",
+      "page": 564,
+      "numberOfAyahs": 52,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 69,
+      "name": "سورة الحاقة",
+      "englishName": "Al-Haaqqa",
+      "page": 566,
+      "numberOfAyahs": 52,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 70,
+      "name": "سورة المعارج",
+      "englishName": "Al-Ma'aarij",
+      "page": 568,
+      "numberOfAyahs": 44,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 71,
+      "name": "سورة نوح",
+      "englishName": "Nooh",
+      "page": 570,
+      "numberOfAyahs": 28,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 72,
+      "name": "سورة الجن",
+      "englishName": "Al-Jinn",
+      "page": 572,
+      "numberOfAyahs": 28,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 73,
+      "name": "سورة المزمل",
+      "englishName": "Al-Muzzammil",
+      "page": 574,
+      "numberOfAyahs": 20,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 74,
+      "name": "سورة المدثر",
+      "englishName": "Al-Muddaththir",
+      "page": 575,
+      "numberOfAyahs": 56,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 75,
+      "name": "سورة القيامة",
+      "englishName": "Al-Qiyaama",
+      "page": 577,
+      "numberOfAyahs": 40,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 76,
+      "name": "سورة الانسان",
+      "englishName": "Al-Insaan",
+      "page": 578,
+      "numberOfAyahs": 31,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 77,
+      "name": "سورة المرسلات",
+      "englishName": "Al-Mursalaat",
+      "page": 580,
+      "numberOfAyahs": 50,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 78,
+      "name": "سورة النبأ",
+      "englishName": "An-Naba",
+      "page": 582,
+      "numberOfAyahs": 40,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 79,
+      "name": "سورة النازعات",
+      "englishName": "An-Naazi'aat",
+      "page": 583,
+      "numberOfAyahs": 46,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 80,
+      "name": "سورة عبس",
+      "englishName": "Abasa",
+      "page": 585,
+      "numberOfAyahs": 42,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 81,
+      "name": "سورة التكوير",
+      "englishName": "At-Takwir",
+      "page": 586,
+      "numberOfAyahs": 29,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 82,
+      "name": "سورة الإنفطار",
+      "englishName": "Al-Infitaar",
+      "page": 587,
+      "numberOfAyahs": 19,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 83,
+      "name": "سورة المطففين",
+      "englishName": "Al-Mutaffifin",
+      "page": 587,
+      "numberOfAyahs": 36,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 84,
+      "name": "سورة الإنشقاق",
+      "englishName": "Al-Inshiqaaq",
+      "page": 589,
+      "numberOfAyahs": 25,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 85,
+      "name": "سورة البروج",
+      "englishName": "Al-Burooj",
+      "page": 590,
+      "numberOfAyahs": 22,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 86,
+      "name": "سورة الطارق",
+      "englishName": "At-Taariq",
+      "page": 591,
+      "numberOfAyahs": 17,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 87,
+      "name": "سورة الأعلى",
+      "englishName": "Al-A'laa",
+      "page": 591,
+      "numberOfAyahs": 19,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 88,
+      "name": "سورة الغاشية",
+      "englishName": "Al-Ghaashiya",
+      "page": 592,
+      "numberOfAyahs": 26,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 89,
+      "name": "سورة الفجر",
+      "englishName": "Al-Fajr",
+      "page": 593,
+      "numberOfAyahs": 30,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 90,
+      "name": "سورة البلد",
+      "englishName": "Al-Balad",
+      "page": 594,
+      "numberOfAyahs": 20,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 91,
+      "name": "سورة الشمس",
+      "englishName": "Ash-Shams",
+      "page": 595,
+      "numberOfAyahs": 15,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 92,
+      "name": "سورة الليل",
+      "englishName": "Al-Lail",
+      "page": 595,
+      "numberOfAyahs": 21,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 93,
+      "name": "سورة الضحى",
+      "englishName": "Ad-Dhuhaa",
+      "page": 596,
+      "numberOfAyahs": 11,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 94,
+      "name": "سورة الشرح",
+      "englishName": "Ash-Sharh",
+      "page": 596,
+      "numberOfAyahs": 8,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 95,
+      "name": "سورة التين",
+      "englishName": "At-Tin",
+      "page": 597,
+      "numberOfAyahs": 8,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 96,
+      "name": "سورة العلق",
+      "englishName": "Al-Alaq",
+      "page": 597,
+      "numberOfAyahs": 19,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 97,
+      "name": "سورة القدر",
+      "englishName": "Al-Qadr",
+      "page": 598,
+      "numberOfAyahs": 5,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 98,
+      "name": "سورة البينة",
+      "englishName": "Al-Bayyina",
+      "page": 598,
+      "numberOfAyahs": 8,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 99,
+      "name": "سورة الزلزلة",
+      "englishName": "Az-Zalzala",
+      "page": 599,
+      "numberOfAyahs": 8,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 100,
+      "name": "سورة العاديات",
+      "englishName": "Al-Aadiyaat",
+      "page": 599,
+      "numberOfAyahs": 11,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 101,
+      "name": "سورة القارعة",
+      "englishName": "Al-Qaari'a",
+      "page": 600,
+      "numberOfAyahs": 11,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 102,
+      "name": "سورة التكاثر",
+      "englishName": "At-Takaathur",
+      "page": 600,
+      "numberOfAyahs": 8,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 103,
+      "name": "سورة العصر",
+      "englishName": "Al-Asr",
+      "page": 601,
+      "numberOfAyahs": 3,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 104,
+      "name": "سورة الهمزة",
+      "englishName": "Al-Humaza",
+      "page": 601,
+      "numberOfAyahs": 9,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 105,
+      "name": "سورة الفيل",
+      "englishName": "Al-Fil",
+      "page": 601,
+      "numberOfAyahs": 5,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 106,
+      "name": "سورة قريش",
+      "englishName": "Quraish",
+      "page": 602,
+      "numberOfAyahs": 4,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 107,
+      "name": "سورة الماعون",
+      "englishName": "Al-Maa'un",
+      "page": 602,
+      "numberOfAyahs": 7,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 108,
+      "name": "سورة الكوثر",
+      "englishName": "Al-Kawthar",
+      "page": 602,
+      "numberOfAyahs": 3,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 109,
+      "name": "سورة الكافرون",
+      "englishName": "Al-Kaafiroon",
+      "page": 603,
+      "numberOfAyahs": 6,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 110,
+      "name": "سورة النصر",
+      "englishName": "An-Nasr",
+      "page": 603,
+      "numberOfAyahs": 3,
+      "revelationType": "مدنية"
+    },
+    {
+      "number": 111,
+      "name": "سورة المسد",
+      "englishName": "Al-Masad",
+      "page": 603,
+      "numberOfAyahs": 5,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 112,
+      "name": "سورة الإخلاص",
+      "englishName": "Al-Ikhlaas",
+      "page": 604,
+      "numberOfAyahs": 4,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 113,
+      "name": "سورة الفلق",
+      "englishName": "Al-Falaq",
+      "page": 604,
+      "numberOfAyahs": 5,
+      "revelationType": "مكية"
+    },
+    {
+      "number": 114,
+      "name": "سورة الناس",
+      "englishName": "An-Naas",
+      "page": 604,
+      "numberOfAyahs": 6,
+      "revelationType": "مكية"
+    }
+  ]
+}
