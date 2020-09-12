@@ -21,7 +21,7 @@ public class MainViewModel extends ViewModel {
     public LiveData<Resource<List<Data>>> getSurahList() {
         final MutableLiveData<Resource<List<Data>>> surahResponse = new MutableLiveData<>();
 
-        surahResponse.setValue(Resource.<List<Data>>loading());
+        surahResponse.setValue(Resource.loading());
         ApiClient.getRetrofitInstance().getSurahList()
                 .enqueue(new Callback<SurahResponse>() {
                     @Override
@@ -33,7 +33,7 @@ public class MainViewModel extends ViewModel {
 
                     @Override
                     public void onFailure(@NonNull Call<SurahResponse> call, @NonNull Throwable t) {
-                        surahResponse.setValue(Resource.<List<Data>>error(t.getMessage() != null ? t.getMessage() : "Unknown Error"));
+                        surahResponse.setValue(Resource.error(t.getMessage() != null ? t.getMessage() : "Unknown Error"));
                     }
                 });
 
